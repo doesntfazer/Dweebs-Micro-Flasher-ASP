@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri "C:/Users/alex2/Documents/Dweebs Macro Mini/Dweebs-Macro-Mini/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+  (lib (name Connector_Generic)(type Legacy)(uri "C:/Users/alex2/Documents/Dweebs Micro Flasher/Dweebs-Micro-Flasher-ASP/pinheaders/Connector_Generic.lib")(options "")(descr ""))
+)

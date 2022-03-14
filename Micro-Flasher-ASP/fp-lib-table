@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri "C:/Users/alex2/Documents/Dweebs Macro Mini/Dweebs-Macro-Mini/ProMicroKiCad-master/promicro.pretty")(options "")(descr ""))
+  (lib (name promicro_library)(type KiCad)(uri "C:/Users/alex2/Documents/Dweebs Macro Mini/Dweebs-Macro-Mini/ProMicroKiCad-master/promicro_library")(options "")(descr ""))
+  (lib (name pinheaders)(type KiCad)(uri ${KIPRJMOD}/pinheaders)(options "")(descr ""))
+)
